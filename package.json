@@ -1,0 +1,15 @@
+{
+  "name": "plaid-backend",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "repository": "https://github.com/jeffreicher/plaid-backend.git",
+  "author": "Jeffrei Cher <jeffreicher@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4",
+    "plaid": "^2.10.0"
+  }
+}
